@@ -130,7 +130,7 @@ if __name__ == "__main__":
 
 
 ### Output:
-<img width="1185" height="267" alt="image" src="https://github.com/user-attachments/assets/abf198aa-4d08-4463-b224-89f460815566" />
+<img width="1102" height="266" alt="image" src="https://github.com/user-attachments/assets/dc54e871-2bb7-4d1f-b388-74eb657dbb7c" />
 
 ### Result:
 Thus,the implementation of Information Retrieval using Boolean Model in Python is successfully completed.
